@@ -1,0 +1,128 @@
+.landing-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .landing-page .overlap-wrapper {
+    background-color: #ffffff;
+    height: 1024px;
+    width: 1440px;
+  }
+  
+  .landing-page .overlap {
+    background-image: url(https://c.animaapp.com/WzlATkda/img/---005-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .landing-page .element-burst {
+    height: 1024px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .landing-page .untitled {
+    height: 1020px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .landing-page .text-wrapper {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 33px;
+    letter-spacing: -0.36px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 977px;
+  }
+  
+  .landing-page .image {
+    height: 30px;
+    left: 33px;
+    object-fit: cover;
+    position: absolute;
+    top: 24px;
+    width: 263px;
+  }
+  
+  .landing-page .group {
+    height: 363px;
+    left: 63px;
+    position: absolute;
+    top: 329px;
+    width: 673px;
+  }
+  
+  .landing-page .coming-soon {
+    height: 363px;
+    position: relative;
+    width: 677px;
+  }
+  
+  .landing-page .overlap-group {
+    height: 307px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 673px;
+  }
+  
+  .landing-page .LOGO {
+    height: 115px;
+    left: 183px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 307px;
+  }
+  
+  .landing-page .div {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 32px;
+    font-weight: 600;
+    left: 83px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 268px;
+  }
+  
+  .landing-page .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Karantina", Helvetica;
+    font-size: 180px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: -5.4px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 95px;
+    white-space: nowrap;
+  }
+  
+  .landing-page .img {
+    height: 56px;
+    left: 277px;
+    position: absolute;
+    top: 307px;
+    width: 119px;
+  }
+  
